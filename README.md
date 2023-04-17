@@ -38,7 +38,7 @@ If you use this Exoplanet Detection System in your research or project, please c
   year = {2023}, <br>
   publisher = {GitHub}, <br>
   journal = {GitHub repository}, <br>
-  howpublished = {\url{https://github.com/your_username/exoplanet_detection_ml}}, <br>
+  howpublished = {\url{https://github.com/Shoumpy/exoplanet-detection-using-machine-learning}}, <br>
 }
 
 ## *License*
